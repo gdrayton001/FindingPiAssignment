@@ -1,0 +1,21 @@
+
+Pi Estimator Results:
+
+The rows of the table represent the number of games played
+The columns represent the number of darts thrown
+1 program was run for each of the following quantities of darts and games
+
+Pi = 3.1415926536
+
+      10		100		1000
+10    Pi:3.59663492063	Pi:3.1943507937	Pi:3.1300560317
+      SD:0.23061066521  SD:0.0203124950 SD:0.0105861896
+100   Pi:3.33259393716	Pi:3.1487749242	Pi:3.1407128795
+      SD:0.05471451878	SD:0.0221546715	SD:0.0062649609
+1000  Pi:3.11837778961	Pi:3.1402224749	Pi:3.1438931038
+      SD:0.04454541557	SD:0.0182316900	SD:0.0079590760
+      
+The table shows that the estimation that Pi is 3.14 was found after 100 games were played with 1000 darts thrown each game.
+(Vice versa as well).
+The table also shows that this program had the lowest standard deviation
+It can reasonably be concluded that, 100,000 darts thrown will accurately estimate pi.
